@@ -1,0 +1,13 @@
+{
+"manifest_version": 2,
+"name": "Wiki search",
+"description": "Quick referance",
+"version": "1.0",
+"minimum_chrome_version": "20",
+"permissions": [
+"contextMenus",
+"tabs"] ,
+"icons" :{
+"16":"images/itachi.png"},
+"background":{"page": "background.html"}
+}
